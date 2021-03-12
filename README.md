@@ -1,6 +1,6 @@
 # Outliers
 
-##Prerequisites
+## Prerequisites
 PyTorch
 Numpy
 Matplotlib
