@@ -9,7 +9,7 @@
 |                           Model                           | Epochs | Batch Size |      |
 | :-------------------------------------------------------: | :----: | :--------: | ---- |
 | [DeepSVDD](http://proceedings.mlr.press/v80/ruff18a.html) |        |            |      |
-|                                                           |        |            |      |
+| [MahalanobisAD](https://arxiv.org/abs/2005.14140)         |        |            |      |
 |                                                           |        |            |      |
 |                                                           |        |            |      |
 |                                                           |        |            |      |
