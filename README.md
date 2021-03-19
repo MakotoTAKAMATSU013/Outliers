@@ -1,7 +1,7 @@
 # Outliers(作成途中)
 
 このレポジトリは， Deep Learningを使用した異常検知モデルの有名手法を利用できます．
-．
+
 利用できるモデルはこの表を参照ください． PyTorch実装です
 
 |                           Model                           | Epochs | Batch Size |      |
